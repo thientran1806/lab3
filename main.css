@@ -1,0 +1,42 @@
+*{margin: 0;}
+body{background-color: hsla(303, 85%, 34%, 1);}
+h1
+{
+    color: red;
+    background-color: #000000;
+    font-size: 48px;
+    text-align: center;
+    text-shadow: 1px 1px 1px #000;
+}
+h2
+{
+    color: rgb(255,255,255);
+    background-color: hsl(119, 79%, 50%);
+    font-weight: bold;
+    text-decoration: underline;
+    text-shadow: 1px 1px 1px #000,
+    3px 3px 5px blue;
+}
+h3
+{
+    background-color: yellow;
+    font-style: italic;
+    text-transform: lowercase;
+    text-shadow: 1px 1px 1px #000;
+    line-height: 1.35;
+    word-spacing: .75em;
+}
+p{
+    color: hsl(177, 36%, 89%);
+    font-variant: small-caps;
+}
+ul{
+    background-color: hsl(275 100% 88.8%);
+    letter-spacing: 0.0625em;
+}
+ol
+{
+    color: lightgray;
+    background-color: hsl(0, 100%, 99%);
+    letter-spacing: 0.0625em;
+}
